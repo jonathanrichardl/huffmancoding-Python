@@ -11,8 +11,8 @@ This version is much faster but requires the BitArray package acquirable in Pip.
 Slower version, this version could be easily ported into MicroPython (and has been tested before) because it only used standard libraries of python. 
 
 # Usage
-## Put your string into string.txt 
-## Run Encoder.py
-## New files are created: compressed.bin is the encoded string and table.txt contains the huffman table. 
-## Run decoder.py and it will print the decoded string into the terminal. 
+### Put your string into string.txt 
+### Run Encoder.py
+### New files are created: compressed.bin is the encoded string and table.txt contains the huffman table. 
+### Run decoder.py and it will print the decoded string into the terminal. 
 
